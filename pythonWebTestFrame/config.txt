@@ -1,0 +1,15 @@
+[REPORT_DIR]
+report_path = \test_report\
+ROOT_PATH = os.path.abspath(BASE_DIR+'/..')
+cases_path = ./test_dir/
+max_fail = 5
+rerun = 3
+
+[BROWSER]
+url_bd = https://www.baidu.com
+url_hxb = https://www.hoomxb.com
+driver_type = Chrome
+
+[RESOURCES]
+baidu_file = \resources\data_baidu.xml
+hxb_file = \resources\data_hxb.xml

@@ -1,0 +1,10 @@
+<home>
+    <test_plan_link_001>
+        <expect_result1>本息复投</expect_result1>
+        <expect_result2>按月提取收益</expect_result2>
+    </test_plan_link_001>
+    <test_loan_link_002>
+        <expect_result1>散标出借</expect_result1>
+        <expect_result2>债权转让</expect_result2>
+    </test_loan_link_002>
+</home>
